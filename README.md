@@ -13,4 +13,4 @@ Aplikasi web yang dapat memasukan data buku ke dalam rak, memindahkan data buku 
 Aplikasi ini dibuat menggunakan Html, Css, Javascript, dan memanfaatkan Lokal Storage sebagai penyimpanan. Untuk menjalankannya anda tinggal melakukan download dan jalankan
 file index.html
 
-Untuk melihat preview dari aplikasi silahkan kunjungi github pages-nya di laman : https://masebta.github.io/bookshelf_app/
+Untuk melihat **Demo** dari aplikasi silahkan kunjungi github pages-nya di laman : https://masebta.github.io/bookshelf_app/
